@@ -1,0 +1,10 @@
+Start program
+take marks of each subject as input in int
+declare g 
+set a variable 'a' which is average of marks of all subjects
+if a is greater than 90 print g as 'A'
+if a is less than 90 and greater than 75 print g as 'B'
+if a is less than 75 and greater than 50 print g as 'C'
+if a is less than 50 and greater than 35 print g as 'D'
+else if a is less than 50 print g as 'F'
+End
